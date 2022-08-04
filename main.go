@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"microservice/server"
+	"microservice-go/server"
 	"net/http"
 	"os"
 )
